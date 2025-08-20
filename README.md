@@ -101,6 +101,8 @@ GROUP BY
 
 </details>
 
+
+
 ### Step 3: Data Visualization & Dashboard Design in Tableau
 Goal: Create a clear, stakeholder-ready dashboard
 
@@ -127,6 +129,7 @@ Key Deliverables:
 
 Link to the Tableau Public Dashboard [here][dashboard]
 </details>
+
 
 
 ### Step 4: Executive Summary & Presentation
