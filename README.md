@@ -11,6 +11,7 @@ Using a real-world BI workflow, this portfolio demonstrates practical knowledge 
 * Executive storytelling
 
 ## Step-by-Step Breakdown
+***
 ### Step 1: Stakeholder and Strategy Documentation
 Goal: Understand the business problem and stakeholder needs.
 
@@ -20,6 +21,7 @@ Key Deliverables:
 * Strategy Document
 
 
+***
 ### Step 2: Data Acquisition & SQL in BigQuery
 Goal: Explore and manipulate data using SQL
 
@@ -103,6 +105,7 @@ GROUP BY
 
 
 
+***
 ### Step 3: Data Visualization & Dashboard Design in Tableau
 Goal: Create a clear, stakeholder-ready dashboard
 
@@ -132,6 +135,7 @@ Link to the Tableau Public Dashboard [here][dashboard]
 
 
 
+***
 ### Step 4: Executive Summary & Presentation
 Goal: Tell a clear story with data
 
