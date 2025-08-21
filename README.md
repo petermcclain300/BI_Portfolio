@@ -40,7 +40,7 @@ Skills Demonstrated:
 <details>
   <summary>Click to expand: SQL Query</summary>
   
-  ```sql
+  <pre><code class="language-sql">
 SELECT
 TRI.usertype,
  ZIPSTART.zip_code AS zip_code_start,
@@ -86,20 +86,20 @@ WHERE
  -- Use data from 2014 and 2015
  AND EXTRACT(YEAR FROM DATE(TRI.starttime)) BETWEEN 2014 AND 2015
 GROUP BY
- 1, 
+ 1,
  2,
-  3,
-  4,
-  5,
-  6,
-  7,
-  8,
-  9,
-  10,
-  11,
-  12,
-  13
-  ```
+ 3,
+ 4,
+ 5,
+ 6,
+ 7,
+ 8,
+ 9,
+ 10,
+ 11,
+ 12,
+ 13
+  </code></pre>
 
 </details>
 
@@ -125,12 +125,10 @@ Key Deliverables:
 <details>
   <summary>Click to view Dashboard</summary>
 
-![Cyclistic Dashboard v2](https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab)
+<img src="https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab" alt="Dashboard">
 
-
-[dashboard]: https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Link to the Tableau Public Dashboard [here][dashboard]
+<a href="https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+View Dashboard on Tableau Public
 </details>
 
 
@@ -164,8 +162,3 @@ Key Insights:
 ## Summary
 
 This project showcases a complete BI workflow — from understanding business needs to data storytelling — and reflects my ability to create real-world, actionable solutions using SQL and Tableau.
-
-
-[Link to another page](./index.md).
-
-
