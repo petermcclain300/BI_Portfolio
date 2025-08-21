@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Business Intelligence Portfolio
 Google Business Intelligence Certificate Project – Cyclistic
 
