@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <main>
+      <h1>{{ site.title }}</h1>
+      <p><em>{{ site.description }}</em></p>
+
+      {{ content }}
+
+      <hr>
+      <footer>
+        <p>
+          {% if site.contact_info.location %}
+            📍 {{ site.contact_info.location }} <br>
+          {% endif %}
+          {% if site.contact_info.linkedin %}
+            🔗 <a href="{{ site.contact_info.linkedin }}" target="_blank">LinkedIn</a><br>
+          {% endif %}
+          {% if site.contact_info.email %}
+            📧 <a href="mailto:{{ site.contact_info.email }}">{{ site.contact_info.email }}</a>
+          {% endif %}
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
