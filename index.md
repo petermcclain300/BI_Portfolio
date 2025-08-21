@@ -218,7 +218,6 @@ GROUP BY
 Link to the Tableau Public Dashboard [here][dashboard]
 
 <div markdown="1">
-  
 <details>
   <summary>Click to view</summary>
   
@@ -229,3 +228,4 @@ SELECT
 TRI.usertype
 ```
 </details>
+</div>
