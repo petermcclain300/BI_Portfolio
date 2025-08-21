@@ -128,7 +128,8 @@ Key Deliverables:
 <img src="https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab" alt="Dashboard">
 
 <a href="https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-View Dashboard on Tableau Public
+  View Dashboard on Tableau Public
+</a>
 </details>
 
 
