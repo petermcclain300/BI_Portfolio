@@ -166,7 +166,6 @@ Key Insights:
 This project showcases a complete BI workflow — from understanding business needs to data storytelling — and reflects my ability to create real-world, actionable solutions using SQL and Tableau.
 
 
-
-
+[Link to another page](./index.md).
 
 
