@@ -216,3 +216,15 @@ GROUP BY
 [dashboard]: https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Link to the Tableau Public Dashboard [here][dashboard]
+
+
+<details>
+<summary>Click to view</summary>
+  
+![Cyclistic Dashboard v2](https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab)
+
+```sql
+SELECT
+TRI.usertype
+```
+</details>
