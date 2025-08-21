@@ -229,3 +229,20 @@ TRI.usertype
 ```
 </details>
 </div>
+
+
+<details>
+  <summary>Dashboard Preview</summary>
+
+  <p>You can view the full dashboard at:</p>
+  <img src="https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab" alt="Dashboard">
+  <a href="https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab" target="_blank">
+    View Dashboard on Tableau
+  </a>
+
+  <pre><code class="language-sql">
+SELECT
+TRI.usertype,
+ ZIPSTART.zip_code AS zip_code_start,
+  </code></pre>
+</details>
