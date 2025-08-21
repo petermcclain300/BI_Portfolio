@@ -1,6 +1,8 @@
 title: Pedro Flores
-author:
+description:
+contact_info:
   location: "Texas, USA"
+  location: Texas, USA
   linkedin: www.linkedin.com/in/pedrol-flores
   
 theme: jekyll-theme-minimal
