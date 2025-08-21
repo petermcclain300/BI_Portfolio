@@ -1,7 +1,6 @@
 # With indentation
 
-<details>
-  <summary>Click to expand: SQL Query</summary>
+<details><summary>Click to expand: SQL Query</summary>
   
   ```sql
     SELECT
@@ -201,11 +200,11 @@ GROUP BY
 # With Collapse
 
 <details>
-  <summary>Click to view Dashboard</summary>
+<summary>Click to view Dashboard</summary>
 
-  ![Cyclistic Dashboard v2](https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab)
+![Cyclistic Dashboard v2](https://github.com/user-attachments/assets/31ed35a7-31b9-40c4-b3c0-885e360478ab)
 
-  [Link to the Tableau Public Dashboard](https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to the Tableau Public Dashboard](https://public.tableau.com/views/Activity-BuildadashboardforCyclistic/1stDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 </details>
 
