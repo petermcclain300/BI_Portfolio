@@ -40,7 +40,7 @@ Skills Demonstrated:
 <details>
   <summary>Click to expand: SQL Query</summary>
   
-```sql
+  ```sql
 SELECT
 TRI.usertype,
  ZIPSTART.zip_code AS zip_code_start,
@@ -99,7 +99,7 @@ GROUP BY
   11,
   12,
   13
-```
+  ```
 
 </details>
 
